@@ -6,6 +6,6 @@ Welcome to **Reverse_ENG-CTF** — a multi-layer reverse engineering challenge d
 - Break through **multiple password stages** hidden inside the binary.  
 - Uncover the **secret key** that protects `secret.zip`.  
 - Each stage gets trickier — with fake passwords, layered checks, and deceptive hints waiting to mislead you.  
-
-⚔️ Only the persistent will reach the final flag.  
+- Final flag is encrypted by public key.
+⚔️ Only the persistent will reach the final flag.
 Do you have what it takes?  
